@@ -55,7 +55,6 @@ nav:
   - Resubmission: resubmission.md
   - Planner: application-planner.md
   - Sources: sources.md
-  - Editorial Standards: editorial-standards.md
 
 markdown_extensions:
   - admonition
