@@ -37,7 +37,7 @@ Limits are from NIH's [Table of Page Limits](https://grants.nih.gov/grants/how-t
 
 Each principal investigator's eRA Commons ID goes in the Credential field of the Senior/Key Person Profile, and without a valid ID the application can't be submitted electronically. The Unique Entity Identifier on the application has to match the one held in SAM.gov and in your eRA Commons organization profile. If you answer "Yes" to human subjects on the R&R Other Project Information form, you'll need at least one study record or a Delayed Onset Study record.
 
-Trial applications attach the Regulatory Plan as "RegulatoryPlan.pdf" under Other Attachments on that same form. Any company that already holds an SBIR Phase II award from a federal agency must add its Phase II commercialization history ([NIH Form G.440](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-e/general/g.440-sbir-sttr-information-form.htm)). PA-27-100 drops the Data Management and Sharing Plan, though Resource Sharing Plans still follow the Application Guide.
+Trial applications attach the Regulatory Plan as "RegulatoryPlan.pdf" under Other Attachments on that same form. Any company that already holds an SBIR Phase II award from a federal agency must add its Phase II commercialization history ([NIH Form G.440](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-i/general/g.440-sbir-sttr-information-form.htm)). PA-27-100 drops the Data Management and Sharing Plan, though Resource Sharing Plans still follow the Application Guide.
 
 ## Overlap and Duplication Rules
 
