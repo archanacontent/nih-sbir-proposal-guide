@@ -1,0 +1,34 @@
+/* Onboarding tour popovers, matched to the site's ink navy and seed green palette */
+.driver-popover.sbr-tour {
+  background: #151f35;
+  color: #e6ebf4;
+  border: 1px solid rgba(109, 211, 166, 0.45);
+  border-radius: 8px;
+  max-width: 320px;
+  font-family: var(--md-text-font-family, "IBM Plex Sans", system-ui, sans-serif);
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.45);
+}
+.driver-popover.sbr-tour .driver-popover-title { font-size: 1rem; font-weight: 600; color: #f0f4fa; letter-spacing: -0.01em; }
+.driver-popover.sbr-tour .driver-popover-description { font-size: 0.85rem; line-height: 1.55; color: #c3cbdb; }
+.driver-popover.sbr-tour .driver-popover-progress-text {
+  font-family: var(--md-code-font-family, "IBM Plex Mono", monospace);
+  font-size: 0.7rem; letter-spacing: 0.08em; color: #6dd3a6;
+}
+.driver-popover.sbr-tour .driver-popover-footer button {
+  font-family: inherit; font-size: 0.8rem; text-shadow: none;
+  border-radius: 4px; padding: 6px 12px;
+  background: transparent; color: #6dd3a6; border: 1px solid #6dd3a6;
+}
+.driver-popover.sbr-tour .driver-popover-footer .driver-popover-next-btn { background: #6dd3a6; color: #0c2a1f; font-weight: 600; }
+.driver-popover.sbr-tour .driver-popover-close-btn { color: #8a94a8; }
+.driver-popover.sbr-tour .driver-popover-close-btn:hover { color: #6dd3a6; }
+.driver-popover.sbr-tour .driver-popover-arrow-side-bottom { border-bottom-color: #151f35; }
+.driver-popover.sbr-tour .driver-popover-arrow-side-top { border-top-color: #151f35; }
+.driver-popover.sbr-tour .driver-popover-arrow-side-left { border-left-color: #151f35; }
+.driver-popover.sbr-tour .driver-popover-arrow-side-right { border-right-color: #151f35; }
+.driver-popover.sbr-tour--announce .driver-popover-title::before {
+  content: "Guide"; display: block; margin-bottom: 0.4rem;
+  font-family: var(--md-code-font-family, "IBM Plex Mono", monospace);
+  font-size: 0.65rem; font-weight: 400; letter-spacing: 0.14em; text-transform: uppercase; color: #6dd3a6;
+}
+.md-typeset .sbr-tour-link { font-size: 0.8rem; margin-top: 0.4rem; }
