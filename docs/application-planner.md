@@ -44,4 +44,4 @@ HHS accepts nine SBIR and STTR applications per company in each fiscal year, and
   </table>
 </div>
 
-Fiscal 2027 runs from October 1, 2026 to September 30, 2027. Earliest start dates come from the review cycles in [PA-27-100](https://files.simpler.grants.gov/opportunities/d1ba49e5-3684-4420-849a-ab2330ec493e/attachments/743ad4bd-fc28-450e-9249-1008f37490af/PA-27-100-Revised-Full-Announcement.html), which expires on April 6, 2027. Your entries stay in this browser and are never sent anywhere.
+Fiscal 2027 runs from October 1, 2026 to September 30, 2027. Earliest start dates come from the review cycles in [PA-27-100](https://files.simpler.grants.gov/opportunities/d1ba49e5-3684-4420-849a-ab2330ec493e/attachments/743ad4bd-fc28-450e-9249-1008f37490af/PA-27-100-Revised-Full-Announcement.html), which expires on April 6, 2027. A standard Phase II after an awarded Phase I is not among the application types NOT-OD-26-090 lists, so the planner leaves it out of the count. Your entries stay in this browser and are never sent anywhere.

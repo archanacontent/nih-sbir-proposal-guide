@@ -8,7 +8,7 @@ NIH funds only US for-profit small business concerns that employ no more than 50
 
 ## SBIR or STTR
 
-The route depends on who does the work. Under SBIR, your company carries out at least two thirds of Phase I research and half of Phase II, with partners and consultants taking the rest. STTR is built for projects that depend on a formal collaboration with a university or other nonprofit research institution. The partner must perform at least 30% of the work and your company at least 40%, and the principal investigator can be employed by either side ([NIH SEED](https://seed.nih.gov/small-business-funding/small-business-program-basics/understanding-sbir-sttr)). The award goes to your company under both programs. SBIR carries a far larger share of NIH money, with 3.2% of the extramural research budget against 0.45% for STTR, so choose STTR only when the partnership is real.
+The route depends on who does the work. Under SBIR, your company normally carries out at least two thirds of Phase I research and half of Phase II, with partners and consultants taking the rest. STTR is built for projects that depend on a formal collaboration with a university or other nonprofit research institution. The partner must perform at least 30% of the work and your company at least 40%, and the principal investigator can be employed by either side ([NIH SEED](https://seed.nih.gov/small-business-funding/small-business-program-basics/understanding-sbir-sttr)). The award goes to your company under both programs. SBIR carries a far larger share of NIH money, with 3.2% of the extramural research budget against 0.45% for STTR, so choose STTR only when the partnership is real.
 
 ## Choosing a Phase
 
@@ -41,9 +41,9 @@ NIH's Center for Scientific Review assigns every application to an institute, an
 
 Four accounts must be active before submission, and failing to finish them in time is not accepted as a reason for lateness.
 
-- **SAM.gov** - issues your Unique Entity Identifier and needs renewal at least once a year. Renewal can take as long as the first registration.
-- **SBA Company Registry** - requires the UEI, and proof of registration goes into the application package.
+- **SAM.gov** - issues your Unique Entity Identifier, and the registration has to be renewed every year.
+- **SBA Company Registry** - issues the SBC Control ID you enter on the SBIR/STTR Information form.
 - **eRA Commons** - needs at least one Signing Official and one principal investigator account. A PI who also signs for the company needs two separate accounts, and every PI profile must link to an ORCID ID.
 - **Grants.gov** - opens only once SAM.gov registration is active.
 
-NIH estimates six weeks or more for the full set, and up to two weeks for a principal investigator's eRA Commons account.
+NIH estimates six weeks or more for the full set, including three weeks or more for a first SAM.gov registration and two weeks or more for eRA Commons.

@@ -16,13 +16,14 @@ Significance comes first, with the market need set beside the scientific one, be
 
 ## Commercialization Plan
 
-A Phase I application may not include one, while every Phase II, Direct to Phase II and Fast-Track application must. NIH allows twelve pages, organized under six required headings ([NIH Form G.440](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-i/general/g.440-sbir-sttr-information-form.htm)).
+A Phase I application may not include one, while every Phase II, Direct to Phase II and Fast-Track application must. NIH allows twelve pages, organized under the section headings its form sets out ([NIH Form G.440](https://grants.nih.gov/grants/how-to-apply-application-guide/forms-i/general/g.440-sbir-sttr-information-form.htm)).
 
 - **Value of the SBIR/STTR Project, Expected Outcomes, and Impact** - the need, the Phase III product and how the project fits your business plan, in terms a lay reader can follow.
 - **Company** - your origins, funding and regulatory history, current products and the management plan for growth.
 - **Market, Customer, and Competition** - the target customer and the hurdles to adoption, with partners for FDA approval or sales and every competitor you know of.
 - **Intellectual Property Protection** - how you'll protect what the project produces and hold off competitors once it ends.
 - **Finance Plan** - how much money commercialization needs, by when, and where it will come from.
+- **Production and Marketing Plan** - how the product will be made, and the steps you'll take to market and sell it.
 - **Revenue Stream** - the revenue model, and how staffing changes if the project succeeds.
 
 NIH doesn't require the full twelve pages.

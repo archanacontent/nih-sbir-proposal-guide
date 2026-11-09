@@ -4,7 +4,7 @@ Any SBIR plan, template or checklist drafted before April 2026 rests on submissi
 
 ## Nine Applications Across HHS
 
-A company that resubmits two applications and files Fast-Track for a third has used a third of its year before any new idea is written. HHS counts new and resubmitted Phase I, Fast-Track and Direct to Phase II applications against a single limit of nine per fiscal year, shared by NIH, CDC and FDA ([NOT-OD-26-090](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-090.html)). Standard Phase II renewals that follow an awarded Phase I sit outside it. Guidance citing NOT-OD-26-073 relies on the April version, which HHS rescinded on July 10. Map every planned application to an institute and a company milestone at the start of the fiscal year, then weigh each resubmission against the new project it would displace.
+A company that resubmits two applications and files Fast-Track for a third has used a third of its year before any new idea is written. HHS counts new and resubmitted Phase I, Fast-Track and Direct to Phase II applications against a single limit of nine per fiscal year, shared by NIH, CDC and FDA ([NOT-OD-26-090](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-090.html)). A standard Phase II that follows an awarded Phase I is not among the application types the notice lists. Guidance citing NOT-OD-26-073 relies on the April version, which HHS rescinded on July 10. Map every planned application to an institute and a company milestone at the start of the fiscal year, then weigh each resubmission against the new project it would displace.
 
 ## No Late Window
 
@@ -24,4 +24,4 @@ A Phase I budget built to the SBA guideline of $335,937 sits $364,063 below the 
 
 ## Foreign Affiliation Screening
 
-One owner's foreign ties can stop an award after the science is scored. During the Just-in-Time stage, NIH collects SBA's foreign affiliation disclosure for every owner and every person who contributes substantively to the project. HHS cannot fund a company with a parent, subsidiary or business entity in China or another foreign country of concern, or with an owner tied to a malign foreign talent recruitment program. No chance to resolve a risk is offered once NIH, CDC or FDA identifies it, so review ownership and affiliations before your team starts writing.
+One owner's foreign ties can stop an award after the science is scored. During the Just-in-Time stage, NIH collects SBA's foreign affiliation disclosure for every owner and every person who contributes substantively to the project. HHS cannot fund a company that has a parent company, subsidiary or business entity located in China, or an owner or covered individual who is party to a malign foreign talent recruitment program. No chance to resolve a risk is offered once NIH, CDC or FDA identifies it, so review ownership and affiliations before your team starts writing.

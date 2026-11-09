@@ -29,9 +29,8 @@ An application with the strongest science in its review group can still be withd
 | Commercialization Plan | Not allowed | 12 pages |
 | Introduction to a resubmission | 1 page | 1 page |
 | Regulatory Plan, clinical trials only | 2 pages | 2 pages |
-| Letters of support | No limit | No limit |
 
-Limits are from NIH's [Table of Page Limits](https://grants.nih.gov/grants/how-to-apply-application-guide/format-and-write/page-limits.htm), and the Regulatory Plan limit is from PA-27-100. NIH counts every line of text on a page toward the limit, headers included.
+Limits are from NIH's [Table of Page Limits](https://grants.nih.gov/grants/how-to-apply-application-guide/format-and-write/page-limits.htm), and the Regulatory Plan limit is from PA-27-100.
 
 ## Form Entries That Block Submission
 

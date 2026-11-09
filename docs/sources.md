@@ -1,6 +1,6 @@
 # Sources
 
-All sources were last checked between November 6 and November 9, 2026. NIH notices and announcements take precedence over any summary in the guide, so confirm a rule against the live notice before you rely on it.
+All sources were last checked on November 10, 2026. NIH notices and announcements take precedence over any summary in the guide, so confirm a rule against the live notice before you rely on it.
 
 ## Law
 
@@ -12,7 +12,7 @@ All sources were last checked between November 6 and November 9, 2026. NIH notic
 - [NOT-OD-26-064](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-064.html) - late application policy and the end of continuous submission, March 31, 2026.
 - [NOT-OD-26-073](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-073.html) - first HHS annual application limit, April 20, 2026, since rescinded.
 - [NOT-OD-26-090](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-090.html) - current HHS annual application limit, July 10, 2026.
-- [NOT-OD-24-061](https://www.grants.nih.gov/grants/guide/notice-files/NOT-OD-24-061.html) - marking changes in resubmission applications, February 13, 2024.
+- [NOT-OD-24-061](https://www.grants.nih.gov/grants/guide/notice-files/NOT-OD-24-061.html) - marking changes in resubmission applications, released February 13, 2024 and effective May 25, 2024.
 - [NOT-OD-18-197](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-18-197.html) - NIH and AHRQ application submission and resubmission policy, July 23, 2018.
 
 ## Funding Announcements
