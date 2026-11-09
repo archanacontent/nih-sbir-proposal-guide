@@ -1,13 +1,12 @@
-# Style Guide
+# Editorial Standards
 
-A reader who moves from the Compliance Matrix to Resubmission should meet the same voice, the same standard of evidence and the same layout on both pages. The rules below hold every page to that standard, and automated checks enforce most of them on each change.
+These rules cover how the guide's own pages are written and sourced. None of them are NIH requirements, and NIH has no rule on punctuation in an application. The formatting rules NIH does enforce, such as font size, margins, page limits and PDF settings, are listed on the [Compliance Matrix](compliance-matrix.md) page with links to the NIH instructions.
 
 ## Voice
 
 - **Reader** - founders, principal investigators and proposal managers at US health companies. Write as a peer who has read the notices, never as a manual.
 - **Position** - tell the reader what to do and why, in the second person, and take a side where the evidence supports one.
 - **Plain words** - prefer short, common words, and name the person or body that acts instead of letting a rule or a document act.
-- **Banned constructions** - no em dashes, semicolons, rhetorical questions or closing summaries. Vale flags each one before review.
 
 ## Sources and Verification
 
