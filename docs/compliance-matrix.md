@@ -4,8 +4,11 @@ An application with the strongest science in its review group can still be withd
 
 ## Formatting Rules for Every PDF
 
-Body text must be 11 points or larger, with no more than 15 characters per linear inch and six lines per vertical inch. Arial, Georgia, Helvetica and Palatino Linotype all meet the standard, and text inside figures can run smaller as long as it stays legible at 100% zoom. Margins need to be at least half an inch on every side of a letter-size page. Keep everything you supply out of them. NIH adds its own headers and footers when it assembles the application, so leave both off your files.
-
+- **Font size** - 11 points or larger for body text. Text inside figures can run smaller as long as it stays legible at 100% zoom.
+- **Type density** - no more than 15 characters per linear inch and six lines per vertical inch.
+- **Fonts** - Arial, Georgia, Helvetica and Palatino Linotype all meet the standard, and any other font that passes the size and density rules is accepted.
+- **Page and margins** - letter-size pages with margins of at least half an inch on every side. Keep everything you supply out of the margins.
+- **Headers and footers** - leave both off your files, because NIH adds its own when it assembles the application.
 - **Security** - switch off every PDF security feature. NIH systems have to open each file, so passwords and encryption aren't allowed.
 - **Flattening** - flatten any PDF that has fillable fields, layers or inserted elements, since an unflattened file can trigger an eRA Commons error.
 - **Signatures** - an electronic signature can't stay live in an attachment. Sign the document, then flatten it.
