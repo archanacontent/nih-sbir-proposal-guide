@@ -1,0 +1,71 @@
+site_name: NIH SBIR Proposal Guide
+site_url: https://archanacontent.github.io/nih-sbir-proposal-guide/
+site_description: NIH SBIR proposals for US health companies under the 2026 rules, from eligibility and the compliance matrix to review and resubmission.
+site_author: Archana Panda
+repo_url: https://github.com/archanacontent/nih-sbir-proposal-guide
+repo_name: archanacontent/nih-sbir-proposal-guide
+
+theme:
+  name: material
+  custom_dir: overrides
+  font:
+    text: IBM Plex Sans
+    code: IBM Plex Mono
+  icon:
+    logo: material/file-certificate-outline
+    repo: fontawesome/brands/github
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.highlight
+
+extra_css:
+  - stylesheets/extra.css
+  - vendor/driver/driver.css
+  - stylesheets/tour.css
+
+extra_javascript:
+  - vendor/driver/driver.js.iife.js
+  - javascripts/tour.js
+
+nav:
+  - Home: index.md
+  - What Changed in 2026: what-changed.md
+  - Before You Write: before-you-write.md
+  - Writing the Application: writing-the-application.md
+  - Compliance Matrix: compliance-matrix.md
+  - Funded Abstract Teardown: funded-abstract-teardown.md
+  - How Reviewers Score: how-reviewers-score.md
+  - Resubmission: resubmission.md
+  - Sources: sources.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences
+
+extra:
+  analytics:
+    provider: google
+    property: G-R5QPB9VQWB

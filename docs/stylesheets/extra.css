@@ -1,0 +1,106 @@
+/* Ink navy and seed green: federal research funding, with growth as the accent */
+[data-md-color-scheme="default"] {
+  --signal: #1d7a58;
+  --signal-soft: rgba(29, 122, 88, 0.08);
+  --headline: #141c2e;
+  --line: rgba(20, 28, 46, 0.12);
+  --md-primary-fg-color: #1a2742;
+  --md-primary-fg-color--light: #243457;
+  --md-primary-fg-color--dark: #121c31;
+  --md-accent-fg-color: #1d7a58;
+  --md-typeset-a-color: #1d7a58;
+  --md-default-bg-color: #ffffff;
+  --md-default-fg-color--light: #5d6678;
+  --on-signal: #ffffff;
+}
+[data-md-color-scheme="slate"] {
+  --signal: #6dd3a6;
+  --signal-soft: rgba(109, 211, 166, 0.10);
+  --headline: #e9eef6;
+  --line: rgba(225, 232, 244, 0.12);
+  --md-primary-fg-color: #1a2742;
+  --md-primary-fg-color--light: #243457;
+  --md-primary-fg-color--dark: #121c31;
+  --md-accent-fg-color: #6dd3a6;
+  --md-typeset-a-color: #6dd3a6;
+  --md-default-bg-color: #0f141f;
+  --md-code-bg-color: #161d2c;
+  --on-signal: #0c2a1f;
+}
+
+/* Body text two sizes down from the theme default */
+.md-typeset { font-size: 0.7rem; }
+.md-typeset h1 { font-size: 1.75em; color: var(--headline); }
+
+/* Header and tabs */
+.md-header, .md-tabs { background-color: var(--md-primary-fg-color); }
+.md-tabs__link--active, .md-tabs__link:hover { color: var(--signal); }
+.md-header__button.md-logo svg { fill: #ffffff; }
+.md-tabs__link--active, .md-tabs__link:hover { color: #ffffff; opacity: 1; }
+.md-search__form { background: rgba(255,255,255,.14); }
+
+/* Headings */
+.md-typeset h1, .md-typeset h2 { font-weight: 600; letter-spacing: -0.01em; text-wrap: balance; }
+.md-typeset h2 { border-top: 1px solid var(--line); padding-top: 1.2rem; }
+
+/* Homepage hero */
+.sbr-hero { padding: 1.6rem 0 0.4rem; }
+.sbr-hero .eyebrow {
+  font-family: var(--md-code-font-family);
+  font-size: 0.68rem; letter-spacing: 0.14em; text-transform: uppercase;
+  color: var(--signal); margin: 0 0 0.8rem;
+}
+.md-typeset .sbr-hero h1 {
+  font-size: clamp(1.7rem, 5.4vw, 2.6rem); line-height: 1.08; font-weight: 700;
+  color: var(--headline); margin: 0 0 0.5rem; max-width: 22ch;
+}
+.md-typeset .sbr-hero .sub {
+  font-size: 0.95rem; font-weight: 500; color: var(--signal); margin: 0 0 1rem;
+}
+.sbr-hero .lede { font-size: 0.85rem; line-height: 1.65; max-width: 64ch; opacity: 0.88; }
+.sbr-hero .md-button { margin: 0.3rem 0.4rem 0.3rem 0; }
+.md-typeset .sbr-hero .md-button--primary { background: var(--signal); border-color: var(--signal); color: var(--on-signal); }
+.md-typeset .sbr-hero .md-button--primary:hover { filter: brightness(1.08); color: var(--on-signal); }
+.md-typeset .sbr-hero .md-button:not(.md-button--primary) { color: var(--signal); border-color: var(--signal); background: transparent; }
+.md-typeset .sbr-hero .md-button:not(.md-button--primary):hover { background: var(--signal-soft); color: var(--signal); }
+
+/* Stat strip */
+.sbr-stats {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  margin: 1.8rem 0 0.6rem;
+  border-top: 1px solid var(--line); border-bottom: 1px solid var(--line);
+}
+.sbr-stats div { padding: 1rem 1rem 1rem 0; min-width: 0; }
+.sbr-stats div + div { border-left: 1px solid var(--line); padding-left: 1rem; }
+.sbr-stats strong {
+  display: block; font-family: var(--md-code-font-family);
+  font-size: 1.2rem; color: var(--signal); font-variant-numeric: tabular-nums;
+}
+.sbr-stats span { font-size: 0.66rem; line-height: 1.4; opacity: 0.75; }
+@media (max-width: 520px) {
+  .sbr-stats div + div { border-left: 0; padding-left: 0; border-top: 1px solid var(--line); }
+}
+
+/* Tables scroll on phones instead of widening the page */
+.md-typeset table:not([class]) { font-size: 0.68rem; }
+.md-typeset__scrollwrap { overflow-x: auto; }
+
+/* Labels */
+.md-typeset .sbr-label {
+  font-family: var(--md-code-font-family); font-size: 0.66rem; letter-spacing: 0.12em;
+  text-transform: uppercase; color: var(--signal); display: block; margin-bottom: 0.2rem;
+}
+
+/* Guide cards */
+.md-typeset .grid.cards > ul > li {
+  border: 1px solid var(--line); border-radius: 6px;
+  background: var(--md-default-bg-color); transition: border-color 0.2s ease;
+}
+.md-typeset .grid.cards > ul > li:hover { border-color: var(--signal); box-shadow: none; }
+.md-typeset .grid.cards .lg { color: var(--signal); }
+
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+
+/* Nine tabs: tighter spacing so every page fits the bar */
+.md-tabs__item { padding-left: 0.5rem; padding-right: 0.5rem; }
+.md-tabs__list { margin-left: 0.1rem; }

@@ -1,0 +1,46 @@
+{
+  "id": "docs-onboarding",
+  "version": 1,
+  "name": "Docs onboarding tour",
+  "targeting": {
+    "pages": ["/"],
+    "audience": "All visitors",
+    "trigger": "First visit to the homepage",
+    "delayMs": 800
+  },
+  "frequency": {
+    "showOnce": true,
+    "storageKey": "nih-sbir-guide-tour-v1",
+    "replayElement": "#tour-replay"
+  },
+  "steps": [
+    {
+      "type": "announcement",
+      "title": "Nine Applications, No Late Window",
+      "body": "HHS now caps each company at nine SBIR and STTR applications a year, and NIH turns away late small business submissions. The next three stops show where the guide covers each step.",
+      "nextLabel": "Show me around"
+    },
+    {
+      "type": "tooltip",
+      "anchor": [".md-search__inner", "label.md-header__button[for='__search']"],
+      "side": "bottom",
+      "title": "Search The Guide",
+      "body": "Find any rule, page limit or notice number. Try Direct to Phase II or Regulatory Plan."
+    },
+    {
+      "type": "tooltip",
+      "anchor": [".grid.cards > ul > li:nth-child(4)"],
+      "side": "top",
+      "title": "Ready To Upload?",
+      "body": "Run your final PDF against the formatting rules, page limits and overlap rules that stop an application before review."
+    },
+    {
+      "type": "tooltip",
+      "anchor": ["form[data-md-component='palette'] label:not([hidden])", "form[data-md-component='palette']"],
+      "side": "bottom",
+      "title": "Light Or Dark",
+      "body": "Switch themes here. Your choice is remembered on this device.",
+      "nextLabel": "Done"
+    }
+  ]
+}
