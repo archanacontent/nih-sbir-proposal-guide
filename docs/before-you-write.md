@@ -14,6 +14,25 @@ The route depends on who does the work. Under SBIR, your company carries out at 
 
 Reviewers judge a Phase I application on whether its strategy will establish feasibility, manage the riskiest steps and set measurable milestones to reach before Phase II. Phase I normally lasts six months. Fast-Track combines both phases in one application, which suits a team that can already write a full Phase II plan and wants to close the funding gap between awards. If feasibility is already proven with other funding, Direct to Phase II skips the first phase altogether. After a Phase I award, keep Phase II eligibility by applying within the first six due dates after the Phase I budget period ends.
 
+<div class="sbr-tree" markdown="0" role="group" aria-label="Choosing a program and a phase">
+  <div class="sbr-tree__q"><span class="n">1</span>Does the project depend on a formal collaboration with a university or other nonprofit research institution?</div>
+  <div class="sbr-tree__row">
+    <div class="sbr-tree__a"><b>Yes</b><strong>STTR</strong><span>Your company does at least 40% of the work and the partner at least 30%.</span></div>
+    <div class="sbr-tree__a"><b>No</b><strong>SBIR</strong><span>Your company does at least two thirds of Phase I work and half of Phase II.</span></div>
+  </div>
+  <div class="sbr-tree__q"><span class="n">2</span>Has feasibility already been shown with other funding?</div>
+  <div class="sbr-tree__row">
+    <div class="sbr-tree__a"><b>Yes</b><strong>Direct to Phase II</strong><span>Skip Phase I and apply for up to two years of development.</span></div>
+    <div class="sbr-tree__a sbr-tree__a--next"><b>No</b><strong>Go to question 3</strong></div>
+  </div>
+  <div class="sbr-tree__q"><span class="n">3</span>Can your team write a full Phase II plan today?</div>
+  <div class="sbr-tree__row">
+    <div class="sbr-tree__a"><b>Yes</b><strong>Fast-Track</strong><span>Both phases in one application, with no funding gap between them.</span></div>
+    <div class="sbr-tree__a"><b>No</b><strong>Phase I</strong><span>Six months of feasibility work, ending in the milestones Phase II needs.</span></div>
+  </div>
+</div>
+
+
 ## Choosing an Institute
 
 NIH's Center for Scientific Review assigns every application to an institute, and you can request one on the PHS Assignment Request Form. Each institute publishes its own research priorities, budget waiver topics and contacts on NIH's [Small Business Funding Considerations](https://grants.nih.gov/funding/funding-categories/small-business/ico-funding-considerations) page. Call the program officer before writing. The program officer can confirm fit, point you to a better institute and tell you whether your study counts as a clinical trial under NIH's definition ([sbir.org](https://sbir.org/nih/sbir-phase-i-application-guide)).

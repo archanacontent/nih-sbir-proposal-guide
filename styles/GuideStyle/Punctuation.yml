@@ -1,0 +1,8 @@
+extends: existence
+message: "Avoid '%s'. The guide uses commas, full stops or a new sentence instead."
+level: error
+nonword: true
+tokens:
+  - '—'
+  - '–(?=\s)'
+  - '[a-z\)];\s'

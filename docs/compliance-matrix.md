@@ -2,6 +2,8 @@
 
 An application with the strongest science in its review group can still be withdrawn from funding consideration over 10-point body text, a password-protected PDF or a line typed into the margin ([NIH format rules](https://grants.nih.gov/grants-process/write-application/how-to-apply-application-guide/format-attachments)). No reviewer is involved in any of it. NIH systems catch many of these faults at submission, and Center for Scientific Review staff screen every application for completeness and compliance before it reaches a study section ([PA-27-100](https://files.simpler.grants.gov/opportunities/d1ba49e5-3684-4420-849a-ab2330ec493e/attachments/743ad4bd-fc28-450e-9249-1008f37490af/PA-27-100-Revised-Full-Announcement.html)). Give the final check to someone who didn't write the science and will read each page the way an auditor would.
 
+[Download the one-page checklist (PDF)](assets/pa-27-100-checklist.pdf){ .md-button }
+
 ## Formatting Rules for Every PDF
 
 - **Font size** - 11 points or larger for body text. Text inside figures can run smaller as long as it stays legible at 100% zoom.

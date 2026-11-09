@@ -27,6 +27,33 @@ hide:
 
 </div>
 
+## From Receipt Date to Award
+
+<div class="sbr-timeline" markdown="0">
+  <div class="sbr-timeline__cycle">
+    <div class="sbr-timeline__head">January 5, 2027 cycle</div>
+    <ol>
+      <li><span>Start registrations</span><strong>By Nov 24, 2026</strong></li>
+      <li class="due"><span>Application due</span><strong>Jan 5, 2027</strong></li>
+      <li><span>Peer review</span><strong>Mar 2027</strong></li>
+      <li><span>Council review</span><strong>May 2027</strong></li>
+      <li class="start"><span>Earliest start</span><strong>Jul 2027</strong></li>
+    </ol>
+  </div>
+  <div class="sbr-timeline__cycle">
+    <div class="sbr-timeline__head">April 5, 2027 cycle</div>
+    <ol>
+      <li><span>Start registrations</span><strong>By Feb 22, 2027</strong></li>
+      <li class="due"><span>Application due</span><strong>Apr 5, 2027</strong></li>
+      <li><span>Peer review</span><strong>Jul 2027</strong></li>
+      <li><span>Council review</span><strong>Aug 2027</strong></li>
+      <li class="start"><span>Earliest start</span><strong>Dec 2027</strong></li>
+    </ol>
+  </div>
+</div>
+
+Review and start dates are from PA-27-100. Registration dates allow the six weeks NIH advises for SAM.gov, the SBA Company Registry, eRA Commons and Grants.gov.
+
 ## What's Inside
 
 <div class="grid cards" markdown>
@@ -86,6 +113,14 @@ hide:
     Reading a summary statement, then deciding whether a revision earns its slot.
 
     [:octicons-arrow-right-24: Plan the next round](resubmission.md)
+
+-   :material-calculator-variant-outline:{ .lg .middle } **Application Planner**
+
+    ---
+
+    Count planned applications against the nine-slot limit and see when each award could start.
+
+    [:octicons-arrow-right-24: Plan your year](application-planner.md)
 
 -   :material-bookshelf:{ .lg .middle } **Sources**
 

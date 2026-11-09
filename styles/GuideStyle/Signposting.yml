@@ -1,0 +1,8 @@
+extends: existence
+message: "Don't describe the text itself ('%s')."
+level: error
+ignorecase: true
+tokens:
+  - this (?:guide|page|section|article)
+  - the table below
+  - as mentioned above

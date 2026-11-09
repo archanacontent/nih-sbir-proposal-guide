@@ -16,7 +16,9 @@ The product adds pediatric features to Rivanna's existing Accuro 3S ultrasound p
 
 Scale comes first. About 850,000 US cancer patients receive chemotherapy each year, and neutropenia costs an estimated $6.4 billion annually. PointCheck images the capillaries under the fingernail to detect severe neutropenia without drawing blood, so patients can check at home between chemotherapy cycles.
 
+<!-- vale GuideStyle.BannedWords = NO -->
 Prior evidence is counted in patients, from a 44-patient proof-of-concept study to usability and feasibility studies with 154 and 193 subjects. The remaining aims run from pilot production of 20 units through a 210-patient pivotal study and a Class II De Novo submission to FDA, ending with a 50-patient outcomes study to support reimbursement. After each aim, a reviewer can see exactly where the device will stand with regulators and payers, in a project that began in July 2018.
+<!-- vale GuideStyle.BannedWords = YES -->
 
 ## Nest Genomics: Hereditary Cancer Care Inside the Health Record
 

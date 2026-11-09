@@ -4,7 +4,7 @@ A strong peer review score doesn't guarantee an award. Recommended applications 
 
 ## Five Scored Criteria
 
-Each criterion gets its own score, but NIH tells reviewers an application doesn't have to be strong in all five. It even notes that a project with little innovation can still be essential to moving a field forward.
+Each criterion gets its own score, but NIH tells reviewers an application doesn't have to be strong in all five. It even notes that a project with little innovation may still be what a field needs to advance.
 
 - **Significance** - reviewers ask whether the product meets an important unmet need and how clinical practice will change if the aims succeed. Leuko Labs answers with 850,000 patients a year and $6.4 billion in costs before it describes the device.
 - **Investigators** - once a project nears market, the scientific résumé is no longer enough. For later-stage work, reviewers also ask whether the team has the expertise to commercialize the product.

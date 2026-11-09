@@ -1,0 +1,36 @@
+extends: existence
+message: "'%s' is on the guide's banned word list. Use a plainer word."
+level: error
+ignorecase: true
+tokens:
+  - crucial
+  - critical
+  - essential
+  - pivotal
+  - robust
+  - various
+  - numerous
+  - landscape
+  - realm
+  - ecosystem
+  - journey
+  - ensure
+  - enable
+  - leverage
+  - navigate
+  - foster
+  - streamline
+  - highlight
+  - underscore
+  - showcase
+  - delve
+  - utilise
+  - utilize
+  - comprehensive
+  - facilitate
+  - nuanced
+  - multifaceted
+  - intricate
+  - tapestry
+  - testament
+  - key (?:point|factor|takeaway|insight)s?

@@ -42,6 +42,7 @@ extra_css:
 extra_javascript:
   - vendor/driver/driver.js.iife.js
   - javascripts/tour.js
+  - javascripts/planner.js
 
 nav:
   - Home: index.md
@@ -52,7 +53,9 @@ nav:
   - Funded Abstract Teardown: funded-abstract-teardown.md
   - How Reviewers Score: how-reviewers-score.md
   - Resubmission: resubmission.md
+  - Planner: application-planner.md
   - Sources: sources.md
+  - Style Guide: style-guide.md
 
 markdown_extensions:
   - admonition
