@@ -1,6 +1,6 @@
 # Funded Abstract Teardown
 
-NINR tells first-time applicants to study sample SBIR and STTR applications ([NINR](https://www.ninr.nih.gov/funding/small-business-funding/tips-preparing-application)), but few companies publish theirs. Funded abstracts fill part of that gap. The three awards below come from medical devices, diagnostics and digital health, and each was funded at a different stage, which changes what its abstract had to prove.
+NINR advises SBIR and STTR applicants to review sample applications ([NINR](https://www.ninr.nih.gov/funding/small-business-funding/tips-preparing-application)), but few companies publish theirs. Funded abstracts fill part of that gap. The three awards below come from medical devices, diagnostics and digital health, and each was funded at a different stage, which changes what its abstract had to prove.
 
 ## Rivanna: Ultrasound Guidance for Pediatric Lumbar Puncture
 
